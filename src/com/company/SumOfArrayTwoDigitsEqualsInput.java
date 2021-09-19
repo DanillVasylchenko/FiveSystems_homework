@@ -19,6 +19,6 @@ public class SumOfArrayTwoDigitsEqualsInput {
     }
 
     public static void main(String[] args) {
-        SumOfArrayTwoDigitsEqualsInput.get(new int[]{-1,-2,0,1,2,3,4,5,6,7}, 20);
+        SumOfArrayTwoDigitsEqualsInput.get(new int[]{-1,-2,0,1,2,3,4,5,6,7}, 13);
     }
 }
